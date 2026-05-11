@@ -1,0 +1,41 @@
+name: shop_list
+description: "A shared shopping list application."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- State Management ---
+  # Ginagamit para sa data sharing sa pagitan ng screens
+  provider: ^6.1.1
+
+  # --- Firebase Ecosystem ---
+  # Naka-set sa compatible versions para iwas 'handleThenable' error
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.2
+  cloud_firestore: ^5.0.2
+
+  # --- UI & Design ---
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Lints for better coding standards
+  flutter_lints: ^4.0.0
+
+flutter:
+  # Pinapagana ang Material Design 3 icons at features
+  uses-material-design: true
+
+  # I-uncomment ito kapag ready na ang logo file mo sa assets folder
+  # assets:
+  #   - assets/images/logo.png
