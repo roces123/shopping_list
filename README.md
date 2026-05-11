@@ -13,7 +13,7 @@
 ## Screenshots
 <p align="center">
   <img src="screenshots/login.png" width="200" title="Login Screen">
-  <img src="screenshots/register(2).png" width="200" title="Register Screen">
+  <img src="screenshots/register (2).png" width="200" title="Register Screen">
   <img src="screenshots/homescreen.png" width="200" title="Home Screen">
   <img src="screenshots/items.png" width="200" title="Item Details">
   <img src="screenshots/profile.png" width="200" title="Profile Screen">
