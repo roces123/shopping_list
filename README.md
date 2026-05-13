@@ -48,3 +48,4 @@ We chose flutter as framework because of the following:
 **KC Delmo**
 Information Technology Student - ISUFST
 [kcdelmo489@gmail.com]
+[delmokc736@gmail.com]
